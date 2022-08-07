@@ -1,0 +1,12 @@
+* {
+    color: #053869;
+}
+
+table {
+    margin-bottom: 1rem;
+}
+
+tr, label {
+    background-color: #a9cdf8;
+    margin: 1px;
+}

@@ -1,0 +1,1298 @@
+{
+  "departments": [
+    {
+      "id": 4059355002,
+      "name": "Business Intelligence ",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://google.com/jobs/5953171002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": null,
+          "location": {
+            "name": "Athens, GR"
+          },
+          "metadata": [],
+          "id": 5953171002,
+          "updated_at": "2022-07-08T09:59:15-04:00",
+          "requisition_id": null,
+          "title": "General Application for Business Intelligence"
+        }
+      ]
+    },
+    {
+      "id": 4061868002,
+      "name": "Channel",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4027432002,
+      "name": "Customer Success",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4059502002,
+      "name": "Data Science",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://google.com/jobs/6207077002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5285947002,
+          "location": {
+            "name": "Prague, CZ"
+          },
+          "metadata": [],
+          "id": 6207077002,
+          "updated_at": "2022-08-04T05:11:22-04:00",
+          "requisition_id": "566",
+          "title": "Cloud Architect"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6172692002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "education": "education_optional",
+          "internal_job_id": 5285947002,
+          "location": {
+            "name": "Athens, GR"
+          },
+          "metadata": [],
+          "id": 6172692002,
+          "updated_at": "2022-08-04T05:11:01-04:00",
+          "requisition_id": "566",
+          "title": "Cloud Architect"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6176218002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5285947002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6176218002,
+          "updated_at": "2022-08-04T05:10:34-04:00",
+          "requisition_id": "566",
+          "title": "Cloud Architect"
+        }
+      ]
+    },
+    {
+      "id": 4028360002,
+      "name": "Design",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4059208002,
+      "name": "Executive",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://google.com/jobs/6311511002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5347671002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6311511002,
+          "updated_at": "2022-08-05T08:58:32-04:00",
+          "requisition_id": "621",
+          "title": "Chief Marketing Officer (CMO)"
+        }
+      ]
+    },
+    {
+      "id": 4027426002,
+      "name": "Finance",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://google.com/jobs/6309492002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5349268002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6309492002,
+          "updated_at": "2022-08-04T12:15:35-04:00",
+          "requisition_id": "622",
+          "title": "Accounts Receivable Assistant"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6212436002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5303862002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6212436002,
+          "updated_at": "2022-07-15T07:36:09-04:00",
+          "requisition_id": "578",
+          "title": "Commissions Analyst "
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6261381002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5325236002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6261381002,
+          "updated_at": "2022-07-20T06:12:16-04:00",
+          "requisition_id": "600",
+          "title": "Finance Assistant"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6182778002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5290607002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6182778002,
+          "updated_at": "2022-07-28T08:25:07-04:00",
+          "requisition_id": "571",
+          "title": "Finance Business Partner"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6165487002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5281583002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6165487002,
+          "updated_at": "2022-07-15T07:38:11-04:00",
+          "requisition_id": "562",
+          "title": "Head of Tax"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6282195002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5336966002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6282195002,
+          "updated_at": "2022-07-21T07:49:36-04:00",
+          "requisition_id": "607",
+          "title": "VP, FP\u0026A"
+        }
+      ]
+    },
+    {
+      "id": 4027425002,
+      "name": "Human Resources and Talent",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://google.com/jobs/6303356002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5346532002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6303356002,
+          "updated_at": "2022-08-04T09:04:03-04:00",
+          "requisition_id": "616",
+          "title": "People Partner"
+        }
+      ]
+    },
+    {
+      "id": 4033387002,
+      "name": "Legal",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4027427002,
+      "name": "Marketing",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4070870002,
+      "name": "N/A",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4033388002,
+      "name": "Operations",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://google.com/jobs/6245876002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5318718002,
+          "location": {
+            "name": "Athens, GR"
+          },
+          "metadata": [],
+          "id": 6245876002,
+          "updated_at": "2022-07-08T08:57:00-04:00",
+          "requisition_id": "596",
+          "title": "IT Support Operations Engineer"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6194234002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5295819002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6194234002,
+          "updated_at": "2022-07-15T07:45:04-04:00",
+          "requisition_id": "576",
+          "title": "Workspace Director"
+        }
+      ]
+    },
+    {
+      "id": 4027429002,
+      "name": "Product",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://google.com/jobs/6309531002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5349285002,
+          "location": {
+            "name": "New York City, USA"
+          },
+          "metadata": [],
+          "id": 6309531002,
+          "updated_at": "2022-08-04T12:53:07-04:00",
+          "requisition_id": "623",
+          "title": "Manager, Product Support"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/5953203002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": null,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 5953203002,
+          "updated_at": "2022-07-08T10:06:05-04:00",
+          "requisition_id": null,
+          "title": "General Application for Product Management"
+        }
+      ]
+    },
+    {
+      "id": 4027424002,
+      "name": "Research and Insights",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://google.com/jobs/6266678002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5328008002,
+          "location": {
+            "name": "New York City, USA"
+          },
+          "metadata": [],
+          "id": 6266678002,
+          "updated_at": "2022-08-04T12:52:33-04:00",
+          "requisition_id": "601",
+          "title": "Insights Associate"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/5948973002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5181582002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 5948973002,
+          "updated_at": "2022-07-29T10:50:10-04:00",
+          "requisition_id": "467",
+          "title": "Junior Research Analyst"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6292888002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5341656002,
+          "location": {
+            "name": "New York City, USA"
+          },
+          "metadata": [],
+          "id": 6292888002,
+          "updated_at": "2022-07-29T09:18:00-04:00",
+          "requisition_id": "610",
+          "title": "Research Analyst"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6215509002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5305304002,
+          "location": {
+            "name": "Athens, GR"
+          },
+          "metadata": [],
+          "id": 6215509002,
+          "updated_at": "2022-07-08T08:57:00-04:00",
+          "requisition_id": "581",
+          "title": "Research Executive"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6305738002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5347639002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6305738002,
+          "updated_at": "2022-08-04T05:15:38-04:00",
+          "requisition_id": "618",
+          "title": "Research Executive"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6247976002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5319492002,
+          "location": {
+            "name": "Athens, GR"
+          },
+          "metadata": [],
+          "id": 6247976002,
+          "updated_at": "2022-07-08T08:57:00-04:00",
+          "requisition_id": "597",
+          "title": "Research Operations Executive"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6091153002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5246183002,
+          "location": {
+            "name": "New York City, USA"
+          },
+          "metadata": [],
+          "id": 6091153002,
+          "updated_at": "2022-08-03T09:05:38-04:00",
+          "requisition_id": "534",
+          "title": "Senior Insight Analyst"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6184163002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5291193002,
+          "location": {
+            "name": "New York City, USA"
+          },
+          "metadata": [],
+          "id": 6184163002,
+          "updated_at": "2022-07-29T09:10:08-04:00",
+          "requisition_id": "572",
+          "title": "Senior Research Manager"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6274862002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5333522002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6274862002,
+          "updated_at": "2022-07-18T06:06:07-04:00",
+          "requisition_id": "605",
+          "title": "Trends Manager"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6074075002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": null,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6074075002,
+          "updated_at": "2022-07-08T10:10:31-04:00",
+          "requisition_id": null,
+          "title": "General Application for Research and Insight"
+        }
+      ]
+    },
+    {
+      "id": 4027423002,
+      "name": "Revenue",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://google.com/jobs/6094506002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5247744002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6094506002,
+          "updated_at": "2022-07-15T08:23:25-04:00",
+          "requisition_id": "537",
+          "title": "Business Development Executive - Travel"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6031329002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5219071002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6031329002,
+          "updated_at": "2022-07-28T05:50:35-04:00",
+          "requisition_id": "508",
+          "title": "Business Development Manager - Beauty / Healthcare"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6027039002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5217151002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6027039002,
+          "updated_at": "2022-07-15T08:25:38-04:00",
+          "requisition_id": "504",
+          "title": "Business Development Manager - Retail/FMCG"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/5931810002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5100351002,
+          "location": {
+            "name": "Singapore, SGP"
+          },
+          "metadata": [],
+          "id": 5931810002,
+          "updated_at": "2022-07-28T07:18:16-04:00",
+          "requisition_id": "406",
+          "title": "Customer Success Executive"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6295633002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5342926002,
+          "location": {
+            "name": "New York City, USA"
+          },
+          "metadata": [],
+          "id": 6295633002,
+          "updated_at": "2022-08-02T08:08:27-04:00",
+          "requisition_id": "611",
+          "title": "Junior Account Executive"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/5931817002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5100336002,
+          "location": {
+            "name": "Singapore, SGP"
+          },
+          "metadata": [],
+          "id": 5931817002,
+          "updated_at": "2022-07-20T08:38:28-04:00",
+          "requisition_id": "404",
+          "title": "Sales Development Representative"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6123702002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5260558002,
+          "location": {
+            "name": "New York City, USA"
+          },
+          "metadata": [],
+          "id": 6123702002,
+          "updated_at": "2022-08-03T09:06:03-04:00",
+          "requisition_id": "552",
+          "title": "Sales Development Representative (Early Careers Programme)"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6133699002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5265202002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6133699002,
+          "updated_at": "2022-08-04T12:00:34-04:00",
+          "requisition_id": "554",
+          "title": "Sales Development Representative (Pathways Program)"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6311321002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5350163002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6311321002,
+          "updated_at": "2022-08-05T08:11:04-04:00",
+          "requisition_id": "624",
+          "title": "Sales Director"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6240288002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5316096002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6240288002,
+          "updated_at": "2022-08-02T08:51:53-04:00",
+          "requisition_id": "595",
+          "title": "Sales Enablement Content Executive"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6225739002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5309855002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6225739002,
+          "updated_at": "2022-07-15T08:28:59-04:00",
+          "requisition_id": "592",
+          "title": "Salesforce Administrator"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6271553002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5330723002,
+          "location": {
+            "name": "Singapore, SGP"
+          },
+          "metadata": [],
+          "id": 6271553002,
+          "updated_at": "2022-07-20T08:40:20-04:00",
+          "requisition_id": "604",
+          "title": "Sales Manager, Corporate Enterprise "
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6185188002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5291707002,
+          "location": {
+            "name": "New York City, USA"
+          },
+          "metadata": [],
+          "id": 6185188002,
+          "updated_at": "2022-07-29T09:16:23-04:00",
+          "requisition_id": "573",
+          "title": "Senior Account Executive "
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6062085002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5232988002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6062085002,
+          "updated_at": "2022-07-15T08:24:27-04:00",
+          "requisition_id": "518",
+          "title": "Senior Business Development Manager - Marketing and Advertising Agencies"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/5919341002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5167978002,
+          "location": {
+            "name": "New York City, USA"
+          },
+          "metadata": [],
+          "id": 5919341002,
+          "updated_at": "2022-07-29T09:15:31-04:00",
+          "requisition_id": "448",
+          "title": "Senior Client Engagement Representative  "
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6311437002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5350206002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6311437002,
+          "updated_at": "2022-08-05T08:24:50-04:00",
+          "requisition_id": "625",
+          "title": "Senior Customer Experience Operations Manager"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6077691002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5239738002,
+          "location": {
+            "name": "New York City, USA"
+          },
+          "metadata": [],
+          "id": 6077691002,
+          "updated_at": "2022-07-29T09:12:56-04:00",
+          "requisition_id": "527",
+          "title": "Senior Sales Development Representative "
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6165463002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5281572002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6165463002,
+          "updated_at": "2022-08-02T08:50:51-04:00",
+          "requisition_id": "561",
+          "title": "Solutions Partner"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6290019002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5340429002,
+          "location": {
+            "name": "New York City, USA"
+          },
+          "metadata": [],
+          "id": 6290019002,
+          "updated_at": "2022-07-29T09:08:12-04:00",
+          "requisition_id": "608",
+          "title": "VP Corporate Sales"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6274916002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5333560002,
+          "location": {
+            "name": "Singapore, SGP"
+          },
+          "metadata": [],
+          "id": 6274916002,
+          "updated_at": "2022-07-20T08:40:58-04:00",
+          "requisition_id": "606",
+          "title": "VP of Sales, APAC"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6084336002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": null,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6084336002,
+          "updated_at": "2022-07-08T10:06:59-04:00",
+          "requisition_id": null,
+          "title": "General Application for Early Careers"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6108987002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": null,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6108987002,
+          "updated_at": "2022-07-08T10:05:29-04:00",
+          "requisition_id": null,
+          "title": "General Application for New Business and Account Management"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/5854637002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": null,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 5854637002,
+          "updated_at": "2022-07-08T10:07:33-04:00",
+          "requisition_id": null,
+          "title": "General Application for New Business Sales"
+        }
+      ]
+    },
+    {
+      "id": 4061763002,
+      "name": "Strategy",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://google.com/jobs/6221648002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5308025002,
+          "location": {
+            "name": "London, UK"
+          },
+          "metadata": [],
+          "id": 6221648002,
+          "updated_at": "2022-07-15T07:51:14-04:00",
+          "requisition_id": "589",
+          "title": "GTM Strategist"
+        }
+      ]
+    },
+    {
+      "id": 4027428002,
+      "name": "Technology",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": [
+        {
+          "absolute_url": "https://google.com/jobs/6011044002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5209782002,
+          "location": {
+            "name": "Prague, CZ"
+          },
+          "metadata": [],
+          "id": 6011044002,
+          "updated_at": "2022-07-08T09:03:55-04:00",
+          "requisition_id": "496",
+          "title": "Mid/Senior Python Engineer "
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6010641002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5209642002,
+          "location": {
+            "name": "Athens, GR"
+          },
+          "metadata": [],
+          "id": 6010641002,
+          "updated_at": "2022-07-08T08:57:00-04:00",
+          "requisition_id": "494",
+          "title": "Mid/Senior Python Engineer "
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6113390002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5255770002,
+          "location": {
+            "name": "Prague, CZ"
+          },
+          "metadata": [],
+          "id": 6113390002,
+          "updated_at": "2022-07-08T09:16:42-04:00",
+          "requisition_id": "542",
+          "title": "Senior Front-End Engineer - Angular"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6113177002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5255770002,
+          "location": {
+            "name": "Athens, GR"
+          },
+          "metadata": [],
+          "id": 6113177002,
+          "updated_at": "2022-07-11T03:05:29-04:00",
+          "requisition_id": "542",
+          "title": "Senior Front-End Engineer - Angular"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/5367107002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 4916941002,
+          "location": {
+            "name": "Athens, GR"
+          },
+          "metadata": [],
+          "id": 5367107002,
+          "updated_at": "2022-07-08T08:57:00-04:00",
+          "requisition_id": "288",
+          "title": "Senior Front-End React Engineer"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/6300854002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5105063002,
+          "location": {
+            "name": "Prague, CZ"
+          },
+          "metadata": [],
+          "id": 6300854002,
+          "updated_at": "2022-08-02T09:26:19-04:00",
+          "requisition_id": "414",
+          "title": "Senior Scala Engineer"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/5783128002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": 5105063002,
+          "location": {
+            "name": "Athens, GR"
+          },
+          "metadata": [],
+          "id": 5783128002,
+          "updated_at": "2022-08-02T09:26:19-04:00",
+          "requisition_id": "414",
+          "title": "Senior Scala Engineer"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/5989597002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": null,
+          "location": {
+            "name": "Athens, GR"
+          },
+          "metadata": [],
+          "id": 5989597002,
+          "updated_at": "2022-07-08T10:10:44-04:00",
+          "requisition_id": null,
+          "title": "General Application for Data Science"
+        },
+        {
+          "absolute_url": "https://google.com/jobs/5989519002",
+          "data_compliance": [
+            {
+              "type": "gdpr",
+              "requires_consent": false,
+              "retention_period": null
+            }
+          ],
+          "internal_job_id": null,
+          "location": {
+            "name": "Athens, GR"
+          },
+          "metadata": [],
+          "id": 5989519002,
+          "updated_at": "2022-07-08T10:06:34-04:00",
+          "requisition_id": null,
+          "title": "General Application for Software Engineering"
+        }
+      ]
+    },
+    {
+      "id": 4073134002,
+      "name": "TEMPLATE CZ",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4071980002,
+      "name": "TEMPLATE GREECE",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4073135002,
+      "name": "TEMPLATE SGP",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4071978002,
+      "name": "TEMPLATE UK",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 4071979002,
+      "name": "TEMPLATE USA",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    },
+    {
+      "id": 0,
+      "name": "No Department",
+      "parent_id": null,
+      "child_ids": [],
+      "jobs": []
+    }
+  ]
+}
