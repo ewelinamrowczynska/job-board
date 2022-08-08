@@ -10,7 +10,7 @@ function fetchData() {
 <table>
 <tr><td>Pozycja:</td><td>${elem.jobs[0].title}</td></tr>
 <tr><td>Lokalizacja:</td><td>${elem.jobs[0].location.name}</td></tr>
-<tr><td>Szczegóły:</td><td>${elem.jobs[0].absolute_url}</td></tr>
+<tr><td>Szczegóły:</td><td><a href=${elem.jobs[0].absolute_url}>${elem.jobs[0].absolute_url}</a></td></tr>
 </table>
 </div>
 `
