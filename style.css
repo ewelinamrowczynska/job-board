@@ -3,10 +3,16 @@
 }
 
 table {
+    width: 50vw;
     margin-bottom: 1rem;
+    border: 1px solid black;
 }
 
 tr, label {
-    background-color: #a9cdf8;
     margin: 1px;
+}
+
+td {
+    background-color: #a9cdf8;
+    border: 1px solid black;
 }
