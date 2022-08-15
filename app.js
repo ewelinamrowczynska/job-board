@@ -6,14 +6,15 @@ function fetchData() {
                 if (elem.jobs.length > 0)
                     return `
 <label>Dział: ${elem.name}</label>
-<div class="table">
 <table>
-<th>Stanowisko:</th>
-<th>Lokalizacja:</th>
-<th>Szczegóły:</th>
-${elem.jobs.map(el =>`<tr><td> ${el.title}</td><td>${el.location.name}</td><td>${el.absolute_url}</td></tr>`)}
+  <th>Stanowisko:</th>
+  <th>Lokalizacja:</th>
+  <th>Szczegóły:</th> ${elem.jobs.map(el => `<tr>
+                                                 <td> ${el.title}</td>
+                                                 <td>${el.location.name}</td>
+                                                 <td><a href="${el.absolute_url}"> ${el.absolute_url}</a></td>
+                          ł                   </tr>`)}
 </table>
-</div>
 `
             }).join("");
             document.querySelector("#app").insertAdjacentHTML('afterbegin', html);
