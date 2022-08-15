@@ -5,12 +5,12 @@ function fetchData() {
             const html = data.departments.map(elem => {
                 if (elem.jobs.length > 0)
                     return `
-<div class="table">
 <label>Dział: ${elem.name}</label>
+<div class="table">
 <table>
-<tr><td>Pozycja:</td><td>${elem.jobs[0].title}</td></tr>
-<tr><td>Lokalizacja:</td><td>${elem.jobs[0].location.name}</td></tr>
-<tr><td>Szczegóły:</td><td><a href=${elem.jobs[0].absolute_url}>${elem.jobs[0].absolute_url}</a></td></tr>
+<tr><td>Stanowisko:</td>${elem.jobs.map(el =>`<td> ${el.title}</td>`)}</tr>
+<tr><td>Lokalizacja:</td>${elem.jobs.map(el =>`<td>${el.location.name}</td>`)}</tr>
+<tr><td>Szczegóły:</td>${elem.jobs.map(el =>`<td>${el.absolute_url}</td>`)}</tr>
 </table>
 </div>
 `
@@ -23,3 +23,4 @@ function fetchData() {
 }
 
 fetchData();
+
