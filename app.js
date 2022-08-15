@@ -8,9 +8,10 @@ function fetchData() {
 <label>Dział: ${elem.name}</label>
 <div class="table">
 <table>
-<tr><th>Stanowisko:</th>${elem.jobs.map(el =>`<td> ${el.title}</td>`)}</tr>
-<tr><th>Lokalizacja:</th>${elem.jobs.map(el =>`<td>${el.location.name}</td>`)}</tr>
-<tr><th>Szczegóły:</th>${elem.jobs.map(el =>`<td>${el.absolute_url}</td>`)}</tr>
+<th>Stanowisko:</th>
+<th>Lokalizacja:</th>
+<th>Szczegóły:</th>
+${elem.jobs.map(el =>`<tr><td> ${el.title}</td><td>${el.location.name}</td><td>${el.absolute_url}</td></tr>`)}
 </table>
 </div>
 `
