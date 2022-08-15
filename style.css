@@ -7,11 +7,12 @@ table {
     border: 1px solid black;
 }
 
-tr, label {
+tr, th, label {
     margin: 1px;
 }
 
-td {
+td, th {
     background-color: #a9cdf8;
     border: 1px solid black;
 }
+
