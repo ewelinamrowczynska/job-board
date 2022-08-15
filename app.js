@@ -7,13 +7,12 @@ function fetchData() {
                     return `
 <label>Dział: ${elem.name}</label>
 <table>
-  <th>Stanowisko:</th>
-  <th>Lokalizacja:</th>
-  <th>Szczegóły:</th> ${elem.jobs.map(el => `<tr>
-                                                 <td> ${el.title}</td>
-                                                 <td>${el.location.name}</td>
-                                                 <td><a href="${el.absolute_url}"> ${el.absolute_url}</a></td>
-                          ł                   </tr>`)}
+<th>Stanowisko:</th>
+<th>Lokalizacja:</th>
+<th>Szczegóły:</th>
+${elem.jobs.map(el => `<tr>
+<td> ${el.title}</td>
+<td>${el.location.name}</td><td><a href="${el.absolute_url}"> ${el.absolute_url}</a></td></tr>`)}
 </table>
 `
             }).join("");
