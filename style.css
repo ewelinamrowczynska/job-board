@@ -5,14 +5,25 @@
 table {
     margin-bottom: 1rem;
     border: 1px solid black;
+    width: 60%;
 }
-
+caption {
+    text-transform: uppercase;
+    font-size: large;
+}
 tr, th, label {
     margin: 1px;
 }
-
-td, th {
+th:nth-of-type(2n+1) {
+    width: 40%;
+}
+th {
+    background-color: #4079bd;
+    border: 1px solid black;
+}
+td {
     background-color: #a9cdf8;
     border: 1px solid black;
 }
+
 

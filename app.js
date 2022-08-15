@@ -5,8 +5,8 @@ function fetchData() {
             const html = data.departments.map(elem => {
                 if (elem.jobs.length > 0)
                     return `
-<label>Dział: ${elem.name}</label>
 <table>
+<caption>Dział: ${elem.name}</caption>
 <th>Stanowisko:</th>
 <th>Lokalizacja:</th>
 <th>Szczegóły:</th>
